@@ -8,8 +8,8 @@
 <br>
 **Your personal encrypted vault for files and digital accounts — on Windows and Android**
 
-[![Windows](https://img.shields.io/badge/Windows-1.7.2-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.2)
-[![Android](https://img.shields.io/badge/Android-1.0.1_preview-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.1)
+[![Windows](https://img.shields.io/badge/Windows-1.7.3-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.3)
+[![Android](https://img.shields.io/badge/Android-1.0.3_preview-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.3)
 [![Encryption](https://img.shields.io/badge/AES--256-encrypted-087F8C)](#-الأمان-والخصوصية)
 
 [العربية](#العربية) · [English](#english) · [سجل الإصدارات / Release history](#-سجل-الإصدارات--release-history)
@@ -22,11 +22,11 @@
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows** | [**SecureVault-Setup-1.7.2.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault-Setup-1.7.2.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
-| 🪟 **Windows** | [**SecureVault_Portable-1.7.2.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault_Portable-1.7.2.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
-| 🤖 **Android** | [**SecureVault-Android-1.0.1-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
-| 🤖 **Android** | [SecureVault-Android-1.0.1-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm32.apk) | للهواتف القديمة | Older phones |
-| 🤖 **Android** | [SecureVault-Android-1.0.1-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
+| 🪟 **Windows** | [**SecureVault-Setup-1.7.3.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.3/SecureVault-Setup-1.7.3.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
+| 🪟 **Windows** | [**SecureVault_Portable-1.7.3.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.3/SecureVault_Portable-1.7.3.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
+| 🤖 **Android** | [**SecureVault-Android-1.0.3-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
+| 🤖 **Android** | [SecureVault-Android-1.0.3-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm32.apk) | للهواتف القديمة | Older phones |
+| 🤖 **Android** | [SecureVault-Android-1.0.3-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
 
 > تطبيق أندرويد في **إصدار تجريبي أول** — نرحّب بملاحظاتك. · The Android app is a **first preview release** — feedback is welcome.
 
@@ -87,6 +87,10 @@
 > - قد يظهر تحذير **Windows SmartScreen** لأن الملف غير موقّع رقمياً: اضغط "معلومات إضافية" ثم "تشغيل على أي حال".
 
 **أندرويد:** نزّل ملف APK على الهاتف وافتحه، واسمح بالتثبيت من هذا المصدر عند السؤال. إن ظهرت رسالة عدم توافق فاستخدم ملف `universal`.
+
+> **إن منع الهاتف التثبيت:** اضغط "تنزيل على أي حال" إن حذّر المتصفح · فعّل "السماح من هذا المصدر" · في Play Protect اختر "مزيد من التفاصيل" ← "التثبيت على أي حال" · في سامسونج أوقف "الحظر التلقائي" (Auto Blocker) مؤقتاً من الإعدادات ← الأمان والخصوصية.
+>
+> عند أول تشغيل يطلب التطبيق إذن الوصول إلى الصور والفيديو بنافذة أندرويد الرسمية — وافق عليه ليعمل إخفاء الصور وإرجاعها بشكل كامل.
 
 > بعد إضافة الصور يعرض التطبيق حذف الأصل من الهاتف فتختفي من الاستديو، ويمكن إرجاعها لاحقاً إلى مجلدها الأصلي بأمر "إرجاع إلى مكانه الأصلي". الصور المرفوعة إلى Google Photos أو أي سحابة تُحذف من هناك يدوياً.
 
@@ -154,6 +158,10 @@
 
 **Android:** download the APK on your phone and open it; allow installs from this source when asked. If the phone reports it as incompatible, use the `universal` file.
 
+> **If the phone blocks the install:** tap "Download anyway" if the browser warns · allow "Install from this source" · in Play Protect choose "More details" → "Install anyway" · on Samsung, temporarily turn off "Auto Blocker" in Settings → Security and privacy.
+>
+> On first launch the app asks for access to photos and videos through Android's official permission dialog — allow it so hiding and restoring photos works fully.
+
 > After adding photos, the app offers to delete the originals so they disappear from your gallery; you can later put them back in their original folder with "Restore to original location". Photos backed up to Google Photos or another cloud must be deleted there manually.
 
 ### Updating
@@ -170,14 +178,16 @@
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**1.0.1**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.1) <br>الأحدث · latest (تجريبي · preview) | 2026-10-05 | حذف الأصل بعد الإضافة فتختفي الصور من الاستديو، وإرجاع الملفات إلى مكانها الأصلي، وتحديد عدة ملفات | Delete originals after adding so photos leave the gallery, restore files to their original location, multi-select | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-universal.apk) |
+| [**1.0.3**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.3) <br>الأحدث · latest (تجريبي · preview) | 2026-10-05 | طلب الأذونات الرسمية (الصور والفيديو، إدارة الوسائط، تسجيل البصمة)، وأيقونات شريط الحالة في الوضع الداكن | Official permission requests (photos & videos, media management, fingerprint enrollment), status-bar icons in dark mode | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-universal.apk) |
+| [1.0.1](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.1) | 2026-10-05 | حذف الأصل بعد الإضافة فتختفي الصور من الاستديو، وإرجاع الملفات إلى مكانها الأصلي، وتحديد عدة ملفات | Delete originals after adding so photos leave the gallery, restore files to their original location, multi-select | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-universal.apk) |
 | [1.0.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.0) | 2026-10-04 | الإصدار الأول: الملفات، الحسابات، البصمة، القفل التلقائي، نسخ احتياطي متوافق مع ويندوز | First release: files, accounts, fingerprint, auto-lock, backups compatible with Windows | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-universal.apk) |
 
 ### 🪟 Windows
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**1.7.2**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.2) <br>الأحدث · latest | 2026-10-04 | تنبيه تلقائي بالتحديثات مع زر "تحديث الآن" | Automatic update notice with an "Update now" button | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault-Setup-1.7.2.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault_Portable-1.7.2.zip) |
+| [**1.7.3**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.3) <br>الأحدث · latest | 2026-10-05 | شريط عنوان النافذة داكن في الوضع الداكن (وبلون البرنامج على ويندوز 11) | Window title bar is dark in dark mode (matching the program on Windows 11) | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.3/SecureVault-Setup-1.7.3.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.3/SecureVault_Portable-1.7.3.zip) |
+| [1.7.2](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.2) | 2026-10-04 | تنبيه تلقائي بالتحديثات مع زر "تحديث الآن" | Automatic update notice with an "Update now" button | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault-Setup-1.7.2.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault_Portable-1.7.2.zip) |
 | [1.7.1](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.1) | 2026-10-04 | شريط التقدّم داخل نافذة البرنامج، ولا قفل أو إغلاق أثناء عملية جارية | Progress bar inside the main window; no auto-lock or closing mid-operation | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.1/SecureVault-Setup-1.7.1.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.1/SecureVault_Portable-1.7.1.zip) |
 | [1.7.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.0) | 2026-10-04 | واجهة جديدة بشريط جانبي وبطاقات إحصاءات، والتشغيل بصلاحيات المسؤول | New interface with a sidebar and stats cards; runs as administrator | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.0/SecureVault-Setup-1.7.0.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.0/SecureVault_Portable-1.7.0.zip) |
 | [1.5.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.5.0) | 2026-09-30 | تنزيل التحديث وتثبيته من داخل البرنامج مع التحقق من سلامة الملف | Download and install updates in-app, with file integrity checks | [Setup](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.5.0/SecureVault-Setup-1.5.0.exe) · [Portable](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.5.0/SecureVault_Portable-1.5.0.zip) |
