@@ -1,13 +1,15 @@
 <div align="center">
 
-# 🔒 المحفظة الآمنة — Secure Vault
+<img src="assets/icon.png" alt="Secure Vault icon" width="160" height="160">
+
+# المحفظة الآمنة — Secure Vault
 
 **خزنتك الشخصية المشفّرة للملفات والحسابات الرقمية — على ويندوز وأندرويد**
 <br>
 **Your personal encrypted vault for files and digital accounts — on Windows and Android**
 
 [![Windows](https://img.shields.io/badge/Windows-1.7.2-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.2)
-[![Android](https://img.shields.io/badge/Android-1.0.0_preview-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.0)
+[![Android](https://img.shields.io/badge/Android-1.0.1_preview-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.1)
 [![Encryption](https://img.shields.io/badge/AES--256-encrypted-087F8C)](#-الأمان-والخصوصية)
 
 [العربية](#العربية) · [English](#english) · [سجل الإصدارات / Release history](#-سجل-الإصدارات--release-history)
@@ -22,9 +24,9 @@
 |---|---|---|---|
 | 🪟 **Windows** | [**SecureVault-Setup-1.7.2.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault-Setup-1.7.2.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
 | 🪟 **Windows** | [**SecureVault_Portable-1.7.2.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.7.2/SecureVault_Portable-1.7.2.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
-| 🤖 **Android** | [**SecureVault-Android-1.0.0-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
-| 🤖 **Android** | [SecureVault-Android-1.0.0-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm32.apk) | للهواتف القديمة | Older phones |
-| 🤖 **Android** | [SecureVault-Android-1.0.0-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
+| 🤖 **Android** | [**SecureVault-Android-1.0.1-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
+| 🤖 **Android** | [SecureVault-Android-1.0.1-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm32.apk) | للهواتف القديمة | Older phones |
+| 🤖 **Android** | [SecureVault-Android-1.0.1-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
 
 > تطبيق أندرويد في **إصدار تجريبي أول** — نرحّب بملاحظاتك. · The Android app is a **first preview release** — feedback is welcome.
 
@@ -56,6 +58,8 @@
 | نسخ احتياطي واسترجاع (متوافق بين المنصتين) | ✅ | ✅ |
 | مشغّل فيديو وصوت مدمج | ✅ | — |
 | السحب والإفلات لإضافة الملفات | ✅ | — |
+| حذف الأصل بعد إضافته (إخفاؤه من الجهاز) | ✅ | ✅ |
+| إرجاع الملف تلقائياً إلى مجلده الأصلي | — | ✅ |
 | الدخول بالبصمة | — | ✅ |
 | منع لقطات الشاشة | — | ✅ |
 | التحديث التلقائي من داخل البرنامج | ✅ | — |
@@ -84,7 +88,7 @@
 
 **أندرويد:** نزّل ملف APK على الهاتف وافتحه، واسمح بالتثبيت من هذا المصدر عند السؤال. إن ظهرت رسالة عدم توافق فاستخدم ملف `universal`.
 
-> عند إضافة ملف إلى المحفظة على أندرويد يبقى الملف الأصلي في مكانه — احذفه بنفسك إن أردت إخفاءه.
+> بعد إضافة الصور يعرض التطبيق حذف الأصل من الهاتف فتختفي من الاستديو، ويمكن إرجاعها لاحقاً إلى مجلدها الأصلي بأمر "إرجاع إلى مكانه الأصلي". الصور المرفوعة إلى Google Photos أو أي سحابة تُحذف من هناك يدوياً.
 
 ### التحديث
 
@@ -120,6 +124,8 @@
 | Backup & restore (compatible across platforms) | ✅ | ✅ |
 | Built-in video and audio player | ✅ | — |
 | Drag & drop to add files | ✅ | — |
+| Delete the original after adding (hide it from the device) | ✅ | ✅ |
+| Restore a file automatically to its original folder | — | ✅ |
 | Fingerprint unlock | — | ✅ |
 | Screenshot blocking | — | ✅ |
 | Automatic in-app updates | ✅ | — |
@@ -148,7 +154,7 @@
 
 **Android:** download the APK on your phone and open it; allow installs from this source when asked. If the phone reports it as incompatible, use the `universal` file.
 
-> When you add a file to the vault on Android, the original stays where it was — delete it yourself if you want it hidden.
+> After adding photos, the app offers to delete the originals so they disappear from your gallery; you can later put them back in their original folder with "Restore to original location". Photos backed up to Google Photos or another cloud must be deleted there manually.
 
 ### Updating
 
@@ -164,7 +170,8 @@
 
 | الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
 |---|---|---|---|---|
-| [**1.0.0**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.0) <br>تجريبي · preview | 2026-10-04 | الإصدار الأول: الملفات، الحسابات، البصمة، القفل التلقائي، نسخ احتياطي متوافق مع ويندوز | First release: files, accounts, fingerprint, auto-lock, backups compatible with Windows | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-universal.apk) |
+| [**1.0.1**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.1) <br>الأحدث · latest (تجريبي · preview) | 2026-10-05 | حذف الأصل بعد الإضافة فتختفي الصور من الاستديو، وإرجاع الملفات إلى مكانها الأصلي، وتحديد عدة ملفات | Delete originals after adding so photos leave the gallery, restore files to their original location, multi-select | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.1/SecureVault-Android-1.0.1-universal.apk) |
+| [1.0.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.0) | 2026-10-04 | الإصدار الأول: الملفات، الحسابات، البصمة، القفل التلقائي، نسخ احتياطي متوافق مع ويندوز | First release: files, accounts, fingerprint, auto-lock, backups compatible with Windows | [arm64](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm64.apk) · [arm32](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-arm32.apk) · [universal](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.0/SecureVault-Android-1.0.0-universal.apk) |
 
 ### 🪟 Windows
 
