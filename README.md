@@ -4,12 +4,13 @@
 
 # المحفظة الآمنة — Secure Vault
 
-**خزنتك الشخصية المشفّرة للملفات والحسابات الرقمية — على ويندوز وأندرويد**
+**خزنتك الشخصية المشفّرة للملفات والحسابات الرقمية — على ويندوز وأندرويد والآيفون**
 <br>
-**Your personal encrypted vault for files and digital accounts — on Windows and Android**
+**Your personal encrypted vault for files and digital accounts — on Windows, Android and iPhone**
 
 [![Windows](https://img.shields.io/badge/Windows-1.7.3-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.7.3)
 [![Android](https://img.shields.io/badge/Android-1.0.3_preview-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/android-v1.0.3)
+[![iPhone](https://img.shields.io/badge/iPhone-1.0.3_preview-000000?logo=apple&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/ios-v1.0.3)
 [![Encryption](https://img.shields.io/badge/AES--256-encrypted-087F8C)](#-الأمان-والخصوصية)
 
 [العربية](#العربية) · [English](#english) · [سجل الإصدارات / Release history](#-سجل-الإصدارات--release-history)
@@ -27,8 +28,9 @@
 | 🤖 **Android** | [**SecureVault-Android-1.0.3-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
 | 🤖 **Android** | [SecureVault-Android-1.0.3-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-arm32.apk) | للهواتف القديمة | Older phones |
 | 🤖 **Android** | [SecureVault-Android-1.0.3-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/android-v1.0.3/SecureVault-Android-1.0.3-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
+| 🍎 **iPhone** | [**SecureVault-iOS-1.0.3-unsigned.ipa**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/ios-v1.0.3/SecureVault-iOS-1.0.3-unsigned.ipa) | يُثبَّت من الكمبيوتر عبر Sideloadly بحساب Apple ID مجاني ([الخطوات](#التثبيت)) | Installed from a PC with Sideloadly and a free Apple ID ([steps](#installation)) |
 
-> تطبيق أندرويد في **إصدار تجريبي أول** — نرحّب بملاحظاتك. · The Android app is a **first preview release** — feedback is welcome.
+> تطبيقا أندرويد والآيفون في **إصدار تجريبي** — نرحّب بملاحظاتك. · The Android and iPhone apps are **preview releases** — feedback is welcome.
 
 ---
 
@@ -44,38 +46,40 @@
 
 - 📁 **إخفاء الملفات الخاصة:** مستندات شخصية، عقود، صور، فيديوهات، تسجيلات صوتية — أي نوع ملف.
 - 🔑 **حفظ الحسابات الرقمية في مكان واحد:** اشتراكات البرامج والخدمات (مثل Microsoft 365 وAdobe وNetflix)، حسابات البريد الإلكتروني، مواقع التواصل، البنوك والمتاجر.
-- 💻📱 **على الكمبيوتر والهاتف:** النسخة الاحتياطية من برنامج ويندوز تُفتح في تطبيق أندرويد، والعكس.
+- 💻📱 **على الكمبيوتر والهاتف:** النسخة الاحتياطية من برنامج ويندوز تُفتح في تطبيقَي أندرويد والآيفون، والعكس.
 - 🧳 **محمولة:** نسخة ويندوز المحمولة تعمل من فلاش ميموري على أي جهاز، وبياناتك معك على القرص نفسه.
 
 ### المزايا
 
-| | ويندوز | أندرويد |
-|---|:---:|:---:|
-| تشفير الملفات (أي نوع وأي حجم) | ✅ | ✅ |
-| الحسابات المحفوظة + مولّد كلمات مرور قوية | ✅ | ✅ |
-| مفتاح استرجاع عند نسيان الرمز السري | ✅ | ✅ |
-| قفل تلقائي بعد عدم الاستخدام | ✅ | ✅ |
-| نسخ احتياطي واسترجاع (متوافق بين المنصتين) | ✅ | ✅ |
-| مشغّل فيديو وصوت مدمج | ✅ | — |
-| السحب والإفلات لإضافة الملفات | ✅ | — |
-| حذف الأصل بعد إضافته (إخفاؤه من الجهاز) | ✅ | ✅ |
-| إرجاع الملف تلقائياً إلى مجلده الأصلي | — | ✅ |
-| الدخول بالبصمة | — | ✅ |
-| منع لقطات الشاشة | — | ✅ |
-| التحديث التلقائي من داخل البرنامج | ✅ | — |
-| العربية والإنجليزية، الوضع الفاتح والداكن | ✅ | ✅ |
+| | ويندوز | أندرويد | آيفون |
+|---|:---:|:---:|:---:|
+| تشفير الملفات (أي نوع وأي حجم) | ✅ | ✅ | ✅ |
+| الحسابات المحفوظة + مولّد كلمات مرور قوية | ✅ | ✅ | ✅ |
+| مفتاح استرجاع عند نسيان الرمز السري | ✅ | ✅ | ✅ |
+| قفل تلقائي بعد عدم الاستخدام | ✅ | ✅ | ✅ |
+| نسخ احتياطي واسترجاع (متوافق بين الأجهزة الثلاثة) | ✅ | ✅ | ✅ |
+| مشغّل فيديو وصوت مدمج | ✅ | — | — |
+| السحب والإفلات لإضافة الملفات | ✅ | — | — |
+| حذف الأصل بعد إضافته (إخفاؤه من الجهاز) | ✅ | ✅ | ✅ |
+| إرجاع الملف تلقائياً إلى مجلده الأصلي | — | ✅ | ✅ |
+| الدخول بالبصمة (Face ID في الآيفون) | — | ✅ | ✅ |
+| منع لقطات الشاشة | — | ✅ | — |
+| إخفاء المحتوى في قائمة التطبيقات المفتوحة | — | ✅ | ✅ |
+| التحديث التلقائي من داخل البرنامج | ✅ | — | — |
+| العربية والإنجليزية، الوضع الفاتح والداكن | ✅ | ✅ | ✅ |
 
 ### 🔐 الأمان والخصوصية
 
 - **تشفير AES-256** لكل ملف، مع توقيع **HMAC-SHA256** يكشف أي تلف أو تلاعب.
 - الرمز السري **لا يُخزَّن أبداً**؛ يُشتق منه مفتاح عبر **PBKDF2-SHA256 بـ 200,000 تكرار** لإبطاء محاولات التخمين.
 - **مفتاح استرجاع** يُعرض مرة واحدة عند الإنشاء — الطريقة الوحيدة لفتح المحفظة إن نُسي الرمز. لا يوجد باب خلفي، ولا يستطيع المطوّر نفسه فتح محفظتك.
-- **لا ترسل أي بيانات:** برنامج ويندوز يتصل بالإنترنت فقط ليقرأ رقم آخر إصدار من هذه الصفحة، وتطبيق أندرويد لا يطلب صلاحية الإنترنت إطلاقاً.
+- **لا ترسل أي بيانات:** برنامج ويندوز يتصل بالإنترنت فقط ليقرأ رقم آخر إصدار من هذه الصفحة، وتطبيقا أندرويد والآيفون لا يتصلان بالإنترنت إطلاقاً.
 
 ### متطلبات التشغيل
 
 - **ويندوز:** Windows 10 أو 11 (64-بت). لا يحتاج بايثون ولا أي برنامج إضافي.
 - **أندرويد:** Android 7.0 أو أحدث.
+- **آيفون:** iOS 15 أو أحدث، وكمبيوتر ويندوز للتثبيت عبر Sideloadly.
 
 ### التثبيت
 
@@ -93,6 +97,15 @@
 > عند أول تشغيل يطلب التطبيق إذن الوصول إلى الصور والفيديو بنافذة أندرويد الرسمية — وافق عليه ليعمل إخفاء الصور وإرجاعها بشكل كامل.
 
 > بعد إضافة الصور يعرض التطبيق حذف الأصل من الهاتف فتختفي من الاستديو، ويمكن إرجاعها لاحقاً إلى مجلدها الأصلي بأمر "إرجاع إلى مكانه الأصلي". الصور المرفوعة إلى Google Photos أو أي سحابة تُحذف من هناك يدوياً.
+
+**آيفون (بحساب Apple ID مجاني):** ملف `.ipa` غير موقّع، ويوقّعه برنامج **Sideloadly** بحسابك أثناء التثبيت:
+1. على كمبيوتر ويندوز ثبّت [Sideloadly](https://sideloadly.io)، ومعه **iTunes** و**iCloud** من موقع Apple (ليس من متجر مايكروسوفت).
+2. وصّل الآيفون بكابل واضغط **"الوثوق بهذا الكمبيوتر"** على الآيفون.
+3. اسحب ملف `SecureVault-iOS-<الإصدار>-unsigned.ipa` إلى Sideloadly، واكتب بريد Apple ID، ثم **Start**.
+4. على الآيفون: الإعدادات ← عام ← **إدارة VPN والجهاز** ← حسابك ← **وثوق**.
+5. iOS 16 فأحدث: الإعدادات ← الخصوصية والأمان ← **وضع المطوّر** ← تفعيل، ثم أعد تشغيل الآيفون.
+
+> مع الحساب المجاني ينتهي التوقيع بعد **7 أيام**؛ أعد التثبيت من Sideloadly (أو فعّل التحديث التلقائي فيه)، وتبقى محفظتك كما هي.
 
 ### التحديث
 
@@ -114,38 +127,40 @@
 
 - 📁 **Hide private files:** personal documents, contracts, photos, videos, voice recordings — any file type.
 - 🔑 **Keep your digital accounts in one place:** software and service subscriptions (e.g. Microsoft 365, Adobe, Netflix), email accounts, social media, banking and shopping.
-- 💻📱 **On your PC and your phone:** a backup from the Windows program opens in the Android app, and vice versa.
+- 💻📱 **On your PC and your phone:** a backup from the Windows program opens in the Android and iPhone apps, and vice versa.
 - 🧳 **Portable:** the Windows portable edition runs from a USB drive on any PC, with your data on the drive itself.
 
 ### Features
 
-| | Windows | Android |
-|---|:---:|:---:|
-| File encryption (any type, any size) | ✅ | ✅ |
-| Saved accounts + strong-password generator | ✅ | ✅ |
-| Recovery key if you forget your PIN | ✅ | ✅ |
-| Auto-lock when idle | ✅ | ✅ |
-| Backup & restore (compatible across platforms) | ✅ | ✅ |
-| Built-in video and audio player | ✅ | — |
-| Drag & drop to add files | ✅ | — |
-| Delete the original after adding (hide it from the device) | ✅ | ✅ |
-| Restore a file automatically to its original folder | — | ✅ |
-| Fingerprint unlock | — | ✅ |
-| Screenshot blocking | — | ✅ |
-| Automatic in-app updates | ✅ | — |
-| Arabic & English, light & dark mode | ✅ | ✅ |
+| | Windows | Android | iPhone |
+|---|:---:|:---:|:---:|
+| File encryption (any type, any size) | ✅ | ✅ | ✅ |
+| Saved accounts + strong-password generator | ✅ | ✅ | ✅ |
+| Recovery key if you forget your PIN | ✅ | ✅ | ✅ |
+| Auto-lock when idle | ✅ | ✅ | ✅ |
+| Backup & restore (compatible across all three) | ✅ | ✅ | ✅ |
+| Built-in video and audio player | ✅ | — | — |
+| Drag & drop to add files | ✅ | — | — |
+| Delete the original after adding (hide it from the device) | ✅ | ✅ | ✅ |
+| Restore a file automatically to its original folder | — | ✅ | ✅ |
+| Fingerprint unlock (Face ID on iPhone) | — | ✅ | ✅ |
+| Screenshot blocking | — | ✅ | — |
+| Content hidden in the app switcher | — | ✅ | ✅ |
+| Automatic in-app updates | ✅ | — | — |
+| Arabic & English, light & dark mode | ✅ | ✅ | ✅ |
 
 ### 🔐 Security & privacy
 
 - **AES-256 encryption** for every file, with an **HMAC-SHA256** signature that detects any damage or tampering.
 - Your PIN is **never stored**; a key is derived from it with **PBKDF2-SHA256 (200,000 iterations)** to slow down guessing.
 - A **recovery key** is shown once when you create the vault — the only way in if you forget your PIN. There is no back door; not even the developer can open your vault.
-- **No data leaves your device:** the Windows program only goes online to read the latest version number from this page, and the Android app does not request internet permission at all.
+- **No data leaves your device:** the Windows program only goes online to read the latest version number from this page, and the Android and iPhone apps never go online at all.
 
 ### System requirements
 
 - **Windows:** Windows 10 or 11 (64-bit). No Python or other software needed.
 - **Android:** Android 7.0 or newer.
+- **iPhone:** iOS 15 or newer, plus a Windows PC to install with Sideloadly.
 
 ### Installation
 
@@ -164,6 +179,15 @@
 
 > After adding photos, the app offers to delete the originals so they disappear from your gallery; you can later put them back in their original folder with "Restore to original location". Photos backed up to Google Photos or another cloud must be deleted there manually.
 
+**iPhone (free Apple ID):** the `.ipa` is unsigned; **Sideloadly** signs it with your account while installing:
+1. On a Windows PC install [Sideloadly](https://sideloadly.io), plus **iTunes** and **iCloud** from Apple's website (not the Microsoft Store).
+2. Connect the iPhone by cable and tap **"Trust This Computer"** on the iPhone.
+3. Drag `SecureVault-iOS-<version>-unsigned.ipa` into Sideloadly, enter your Apple ID email, then **Start**.
+4. On the iPhone: Settings → General → **VPN & Device Management** → your account → **Trust**.
+5. iOS 16 or newer: Settings → Privacy & Security → **Developer Mode** → on, then restart the iPhone.
+
+> With a free account the signature expires after **7 days**; reinstall from Sideloadly (or enable its auto-refresh) — your vault is kept.
+
 ### Updating
 
 - **Windows 1.5.0 and newer:** a notice appears inside the program when a new version is out, and **"Update now"** downloads and installs it, then reopens the program. You can also click "Check for Updates".
@@ -173,6 +197,12 @@
 ---
 
 ## 📜 سجل الإصدارات — Release history
+
+### 🍎 iPhone
+
+| الإصدار / Version | التاريخ / Date | الجديد | What's new | التنزيل / Download |
+|---|---|---|---|---|
+| [**1.0.3**](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/ios-v1.0.3) <br>الأحدث · latest (تجريبي · preview) | 2026-10-05 | الإصدار الأول للآيفون: الملفات والصور، إخفاؤها من تطبيق الصور وإرجاعها، الحسابات، Face ID، نسخ احتياطي متوافق | First iPhone release: files & photos, hide from and restore to the Photos app, accounts, Face ID, compatible backups | [ipa](https://github.com/ssmm6000/SecureVault-Releases/releases/download/ios-v1.0.3/SecureVault-iOS-1.0.3-unsigned.ipa) |
 
 ### 🤖 Android
 
