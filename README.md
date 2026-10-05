@@ -61,7 +61,7 @@
 | التحديث التلقائي من داخل البرنامج | ✅ | — |
 | العربية والإنجليزية، الوضع الفاتح والداكن | ✅ | ✅ |
 
-### 🛡️ الأمان والخصوصية
+### 🔐 الأمان والخصوصية
 
 - **تشفير AES-256** لكل ملف، مع توقيع **HMAC-SHA256** يكشف أي تلف أو تلاعب.
 - الرمز السري **لا يُخزَّن أبداً**؛ يُشتق منه مفتاح عبر **PBKDF2-SHA256 بـ 200,000 تكرار** لإبطاء محاولات التخمين.
@@ -125,7 +125,7 @@
 | Automatic in-app updates | ✅ | — |
 | Arabic & English, light & dark mode | ✅ | ✅ |
 
-### 🛡️ Security & privacy
+### 🔐 Security & privacy
 
 - **AES-256 encryption** for every file, with an **HMAC-SHA256** signature that detects any damage or tampering.
 - Your PIN is **never stored**; a key is derived from it with **PBKDF2-SHA256 (200,000 iterations)** to slow down guessing.
