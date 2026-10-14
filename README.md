@@ -15,6 +15,8 @@
 
 [العربية](#العربية) · [English](#english) · [صفحة الإصدار / Release page](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)
 
+📘 **[دليل الاستخدام المصوّر](GUIDE.md)** ([PDF](GUIDE-ar.pdf)) · **[Illustrated User Guide](GUIDE.en.md)** ([PDF](GUIDE-en.pdf))
+
 </div>
 
 ---
