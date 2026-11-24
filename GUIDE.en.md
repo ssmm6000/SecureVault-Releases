@@ -46,7 +46,7 @@ The first time you run the program it asks you to create a secret PIN for the va
 
 <img src="guide/img/setup-en.webp" alt="First run: create your vault" width="900">
 
-1. Type a secret PIN (at least 4 characters; longer is stronger).
+1. Type a secret PIN (at least 8 characters; longer is stronger).
 2. Type the same PIN again to confirm it.
 3. Press “Create Vault”.
 4. If you have a backup of an earlier vault, press “I have a backup to restore” instead.
