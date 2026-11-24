@@ -8,12 +8,12 @@
 <br>
 **Your personal encrypted vault for files and digital accounts — on Windows, Android and iPhone**
 
-[![Windows](https://img.shields.io/badge/Windows-1.12.0-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)
-[![Android](https://img.shields.io/badge/Android-1.3.0-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)
-[![iPhone](https://img.shields.io/badge/iPhone-1.3.0-000000?logo=apple&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)
+[![Windows](https://img.shields.io/badge/Windows-1.13.0-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
+[![Android](https://img.shields.io/badge/Android-1.4.0-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
+[![iPhone](https://img.shields.io/badge/iPhone-1.4.0-000000?logo=apple&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
 [![Encryption](https://img.shields.io/badge/AES--256-encrypted-087F8C)](#-الأمان-والخصوصية)
 
-[العربية](#العربية) · [English](#english) · [صفحة الإصدار / Release page](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)
+[العربية](#العربية) · [English](#english) · [صفحة الإصدار / Release page](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
 
 📘 **[دليل الاستخدام المصوّر](GUIDE.md)** ([PDF](GUIDE-ar.pdf)) · **[Illustrated User Guide](GUIDE.en.md)** ([PDF](GUIDE-en.pdf))
 
@@ -23,16 +23,16 @@
 
 ## ⬇ التنزيل — Download
 
-كل الملفات في صفحة إصدار واحدة: **[v1.12.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.12.0)** (2026-10-14) · All files are on a single release page.
+كل الملفات في صفحة إصدار واحدة: **[v1.13.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)** (2026-11-24) · All files are on a single release page.
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows 1.12.0** | [**SecureVault-Setup-1.12.0.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault-Setup-1.12.0.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
-| 🪟 **Windows 1.12.0** | [**SecureVault_Portable-1.12.0.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault_Portable-1.12.0.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
-| 🤖 **Android 1.3.0** | [**SecureVault-Android-1.3.0-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault-Android-1.3.0-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
-| 🤖 **Android 1.3.0** | [SecureVault-Android-1.3.0-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault-Android-1.3.0-arm32.apk) | للهواتف القديمة | Older phones |
-| 🤖 **Android 1.3.0** | [SecureVault-Android-1.3.0-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault-Android-1.3.0-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
-| 🍎 **iPhone 1.3.0** | [**SecureVault-iOS-1.3.0-unsigned.ipa**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.12.0/SecureVault-iOS-1.3.0-unsigned.ipa) | يُثبَّت من الكمبيوتر عبر Sideloadly ([الخطوات](#التثبيت)) | Installed from a PC with Sideloadly ([steps](#installation)) |
+| 🪟 **Windows 1.13.0** | [**SecureVault-Setup-1.13.0.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Setup-1.13.0.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
+| 🪟 **Windows 1.13.0** | [**SecureVault_Portable-1.13.0.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault_Portable-1.13.0.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
+| 🤖 **Android 1.4.0** | [**SecureVault-Android-1.4.0-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
+| 🤖 **Android 1.4.0** | [SecureVault-Android-1.4.0-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-arm32.apk) | للهواتف القديمة | Older phones |
+| 🤖 **Android 1.4.0** | [SecureVault-Android-1.4.0-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
+| 🍎 **iPhone 1.4.0** | [**SecureVault-iOS-1.4.0-unsigned.ipa**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-iOS-1.4.0-unsigned.ipa) | يُثبَّت من الكمبيوتر عبر Sideloadly ([الخطوات](#التثبيت)) | Installed from a PC with Sideloadly ([steps](#installation)) |
 
 > نسخة ويندوز تعمل **14 يوماً تجريبية** بكل المزايا، ثم تحتاج مفتاح تفعيل لإضافة ملفات أو حسابات جديدة (ملفاتك الموجودة تبقى قابلة للفتح والاستخراج دائماً). تطبيقا أندرويد والآيفون مجانيان.
 > <br>
@@ -40,33 +40,29 @@
 
 ### الجديد في هذا الإصدار — What's new
 
-## الجديد — ويندوز 1.12.0 / أندرويد وآيفون 1.3.0
+## الجديد — ويندوز 1.13.0 / أندرويد وآيفون 1.4.0 (تحديث أمني)
+
+### ويندوز والجوال
+- **حماية أقوى للرمز السري:** يُشتق مفتاح المحفظة الآن بخوارزمية Argon2id بدل PBKDF2، فيصبح تخمين الرمز أصعب بكثير حتى لو حصل أحد على نسخة من ملفات المحفظة. المحافظ الحالية تُرقّى تلقائياً عند أول فتح، ولا يلزمك فعل شيء.
+- **الرمز السري الجديد 8 أحرف أو خانات على الأقل.** الرموز الحالية الأقصر تبقى تفتح المحفظة، مع تنبيه يقترح تغييرها.
+- **مهم:** بعد الترقية لا تفتح الإصدارات القديمة المحفظة ولا نسخها الاحتياطية الجديدة (تظهر رسالة "الرمز غير صحيح")، فحدّث البرنامج على كل أجهزتك.
 
 ### ويندوز
-- **شاشة الإعدادات (⚙):** تعرض حساب Google المربوط وقائمة **الأجهزة المرتبطة بالحساب** (اسم الجهاز، نوعه، آخر مزامنة، وعلامة "هذا الجهاز")، مع تحديث القائمة وإزالة جهاز قديم منها.
-- **فك الربط بتأكيدين:** يُنبَّه المستخدم مرتين بأن فك الربط قد يلغي المزامنة بين أجهزته قبل تنفيذه، ويُحذف الجهاز من قائمة الأجهزة المرتبطة.
-- **شاشة الحسابات المحفوظة بتصميم جديد** مطابق لشاشة الملفات: شريط جانبي، بطاقتا إحصاءات (عدد الحسابات، وكلمات المرور الضعيفة أو المكرّرة)، وشريط أزرار — مع بقاء كل الأزرار السابقة.
-- **تنبيه التحديثات:** يفحص البرنامج وجود إصدار جديد عند التشغيل ثم كل 6 ساعات ما دام مفتوحاً، ويمكن التحديث بضغطة من داخل البرنامج.
-
-### الجوال
-- الهاتف يظهر في قائمة الأجهزة المرتبطة في برنامج ويندوز.
-- فك الربط بتأكيدين.
-- فحص التحديثات أيضاً عند العودة للتطبيق (بعد 6 ساعات من آخر فحص). أندرويد يتحدّث من داخل التطبيق؛ آيفون يفتح صفحة الإصدار (قيد من Apple لتطبيقات Sideloadly).
+- **تحديثات موقّعة:** البرنامج لا يثبّت تحديثاً من داخله إلا إذا كان موقّعاً بتوقيع الناشر.
+- **الملفات المفتوحة من المحفظة:** نسختها المؤقتة تُمسح بالكتابة فوقها عند الإغلاق، فلا تستطيع برامج استعادة المحذوفات استرجاعها.
 
 ---
 
-## What's new — Windows 1.12.0 / Android & iPhone 1.3.0
+## What's new — Windows 1.13.0 / Android & iPhone 1.4.0 (security update)
+
+### Windows and mobile
+- **Stronger PIN protection:** the vault key is now derived with Argon2id instead of PBKDF2, so guessing the PIN is far harder even for someone who gets a copy of the vault files. Existing vaults are upgraded automatically the first time you open them; nothing to do.
+- **New PINs need at least 8 characters.** Existing shorter PINs still open the vault, with a suggestion to change them.
+- **Important:** after the upgrade, older versions can't open the vault or its new backups (they show "Incorrect PIN"), so update the app on all your devices.
 
 ### Windows
-- **Settings screen (⚙):** shows the linked Google account and the **devices linked to the account** (name, type, last sync, "this device"), with refresh and removing an old device from the list.
-- **Unlink asks twice:** you're warned twice that unlinking may stop syncing between your devices, and the device is removed from the linked devices list.
-- **Redesigned Saved Accounts screen** matching the Files screen: sidebar, two stat cards (accounts, weak or reused passwords) and a button bar — every previous button kept.
-- **Update alerts:** the program checks for a new version at startup and every 6 hours while open, and updates itself in one click.
-
-### Mobile
-- The phone now appears in the linked devices list on Windows.
-- Unlink asks twice.
-- Update check also when returning to the app (6 hours after the last check). Android updates in-app; iPhone opens the release page (an Apple restriction for Sideloadly apps).
+- **Signed updates:** the program only installs an in-app update that carries the publisher's signature.
+- **Files opened from the vault:** their temporary copy is overwritten when closed, so file-recovery tools can't bring it back.
 
 © Sultan Al-Salmi — All rights reserved / © سلطان السالمي — جميع الحقوق محفوظة
 
