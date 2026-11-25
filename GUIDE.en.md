@@ -249,10 +249,11 @@ From “Change PIN” in the sidebar.
 
 <img src="guide/img/change_pin-en.webp" alt="Changing the PIN and the recovery key" width="900">
 
-1. The new secret PIN.
-2. Confirm the new PIN.
-3. “Save”.
-4. “Generate New Recovery Key”: if you lost the old key or think someone saw it. The old one stops working immediately.
+1. Current secret PIN: required to change the PIN and to generate a new recovery key.
+2. The new secret PIN.
+3. Confirm the new PIN.
+4. “Save”.
+5. “Generate New Recovery Key”: if you lost the old key or think someone saw it. The old one stops opening the vault immediately, but older backups still open with it — delete them if it was exposed.
 
 > **Tips:**
 > - Changing the PIN is instant, doesn't re-encrypt your files and doesn't change the recovery key.
