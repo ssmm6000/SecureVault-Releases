@@ -8,12 +8,12 @@
 <br>
 **Your personal encrypted vault for files and digital accounts — on Windows, Android and iPhone**
 
-[![Windows](https://img.shields.io/badge/Windows-1.13.0-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
-[![Android](https://img.shields.io/badge/Android-1.4.0-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
-[![iPhone](https://img.shields.io/badge/iPhone-1.4.0-000000?logo=apple&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
+[![Windows](https://img.shields.io/badge/Windows-1.13.1-0078D6?logo=windows&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.1)
+[![Android](https://img.shields.io/badge/Android-1.4.1-3DDC84?logo=android&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.1)
+[![iPhone](https://img.shields.io/badge/iPhone-1.4.1-000000?logo=apple&logoColor=white)](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.1)
 [![Encryption](https://img.shields.io/badge/AES--256-encrypted-087F8C)](#-الأمان-والخصوصية)
 
-[العربية](#العربية) · [English](#english) · [صفحة الإصدار / Release page](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)
+[العربية](#العربية) · [English](#english) · [صفحة الإصدار / Release page](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.1)
 
 📘 **[دليل الاستخدام المصوّر](GUIDE.md)** ([PDF](GUIDE-ar.pdf)) · **[Illustrated User Guide](GUIDE.en.md)** ([PDF](GUIDE-en.pdf))
 
@@ -23,16 +23,16 @@
 
 ## ⬇ التنزيل — Download
 
-كل الملفات في صفحة إصدار واحدة: **[v1.13.0](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.0)** (2026-11-24) · All files are on a single release page.
+كل الملفات في صفحة إصدار واحدة: **[v1.13.1](https://github.com/ssmm6000/SecureVault-Releases/releases/tag/v1.13.1)** (2026-11-25) · All files are on a single release page.
 
 | المنصة / Platform | الملف / File | الوصف | Description |
 |---|---|---|---|
-| 🪟 **Windows 1.13.0** | [**SecureVault-Setup-1.13.0.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Setup-1.13.0.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
-| 🪟 **Windows 1.13.0** | [**SecureVault_Portable-1.13.0.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault_Portable-1.13.0.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
-| 🤖 **Android 1.4.0** | [**SecureVault-Android-1.4.0-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
-| 🤖 **Android 1.4.0** | [SecureVault-Android-1.4.0-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-arm32.apk) | للهواتف القديمة | Older phones |
-| 🤖 **Android 1.4.0** | [SecureVault-Android-1.4.0-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-Android-1.4.0-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
-| 🍎 **iPhone 1.4.0** | [**SecureVault-iOS-1.4.0-unsigned.ipa**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.0/SecureVault-iOS-1.4.0-unsigned.ipa) | يُثبَّت من الكمبيوتر عبر Sideloadly ([الخطوات](#التثبيت)) | Installed from a PC with Sideloadly ([steps](#installation)) |
+| 🪟 **Windows 1.13.1** | [**SecureVault-Setup-1.13.1.exe**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault-Setup-1.13.1.exe) | النسخة المثبّتة (موصى بها) | Installed edition (recommended) |
+| 🪟 **Windows 1.13.1** | [**SecureVault_Portable-1.13.1.zip**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault_Portable-1.13.1.zip) | النسخة المحمولة: تعمل من فلاش أو هارد خارجي دون تثبيت | Portable: runs from a USB drive with no installation |
+| 🤖 **Android 1.4.1** | [**SecureVault-Android-1.4.1-arm64.apk**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault-Android-1.4.1-arm64.apk) | لأغلب الهواتف الحديثة | Most modern phones |
+| 🤖 **Android 1.4.1** | [SecureVault-Android-1.4.1-arm32.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault-Android-1.4.1-arm32.apk) | للهواتف القديمة | Older phones |
+| 🤖 **Android 1.4.1** | [SecureVault-Android-1.4.1-universal.apk](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault-Android-1.4.1-universal.apk) | يعمل على أي هاتف (حجم أكبر) | Any phone (larger file) |
+| 🍎 **iPhone 1.4.1** | [**SecureVault-iOS-1.4.1-unsigned.ipa**](https://github.com/ssmm6000/SecureVault-Releases/releases/download/v1.13.1/SecureVault-iOS-1.4.1-unsigned.ipa) | يُثبَّت من الكمبيوتر عبر Sideloadly ([الخطوات](#التثبيت)) | Installed from a PC with Sideloadly ([steps](#installation)) |
 
 > نسخة ويندوز تعمل **14 يوماً تجريبية** بكل المزايا، ثم تحتاج مفتاح تفعيل لإضافة ملفات أو حسابات جديدة (ملفاتك الموجودة تبقى قابلة للفتح والاستخراج دائماً). تطبيقا أندرويد والآيفون مجانيان.
 > <br>
@@ -40,29 +40,47 @@
 
 ### الجديد في هذا الإصدار — What's new
 
-## الجديد — ويندوز 1.13.0 / أندرويد وآيفون 1.4.0 (تحديث أمني)
+## الجديد — ويندوز 1.13.1 / أندرويد وآيفون 1.4.1 (تحديث أمني)
 
-### ويندوز والجوال
-- **حماية أقوى للرمز السري:** يُشتق مفتاح المحفظة الآن بخوارزمية Argon2id بدل PBKDF2، فيصبح تخمين الرمز أصعب بكثير حتى لو حصل أحد على نسخة من ملفات المحفظة. المحافظ الحالية تُرقّى تلقائياً عند أول فتح، ولا يلزمك فعل شيء.
-- **الرمز السري الجديد 8 أحرف أو خانات على الأقل.** الرموز الحالية الأقصر تبقى تفتح المحفظة، مع تنبيه يقترح تغييرها.
-- **مهم:** بعد الترقية لا تفتح الإصدارات القديمة المحفظة ولا نسخها الاحتياطية الجديدة (تظهر رسالة "الرمز غير صحيح")، فحدّث البرنامج على كل أجهزتك.
+إصلاحات نتيجة تدقيق أمني شامل للبرنامجين.
 
 ### ويندوز
-- **تحديثات موقّعة:** البرنامج لا يثبّت تحديثاً من داخله إلا إذا كان موقّعاً بتوقيع الناشر.
-- **الملفات المفتوحة من المحفظة:** نسختها المؤقتة تُمسح بالكتابة فوقها عند الإغلاق، فلا تستطيع برامج استعادة المحذوفات استرجاعها.
+- **تغيير الرمز السري وتوليد مفتاح استرجاع جديد يتطلبان الآن الرمز السري الحالي**، فلا تكفي محفظة مفتوحة تُركت أمام شخص آخر.
+- حماية أقوى للملفات: البرنامج لا يتبع الروابط والوصلات التي قد يزرعها برنامج آخر عند حذف الأصل بعد الإخفاء، أو تنظيف الملفات المؤقتة، أو الاستخراج والتصدير.
+- **استيراد النسخة الاحتياطية لم يعد يحذف محفظتك الحالية** إن كان الملف تالفاً أو غير صحيح.
+- أسماء الملفات المستخرجة تُنظَّف دائماً، حتى لو جاءت من نسخة احتياطية من الجوال.
+- التحديث من داخل البرنامج يرفض أي ملف أقدم من الإصدار الحالي أو لا يطابق رقم الإصدار المعلن.
+- رسالة حذف الأصل تعرض أسماء الملفات، وتصدير CSV يمنع تنفيذ الصيغ عند فتحه في Excel.
+
+### الجوال
+- **توليد مفتاح استرجاع جديد وتفعيل البصمة يتطلبان الرمز السري الحالي.**
+- أندرويد: القفل يحذف أيضاً نسخة الملف المؤقتة التي يصنعها نظام المشاركة.
+- آيفون: سرّ البصمة يبقى على هذا الجهاز فقط ولا ينتقل في النسخ الاحتياطية، ونسخة التصدير المؤقتة تُحذف فوراً. قد يُطلب منك إعادة تفعيل البصمة مرة واحدة بعد التحديث.
+- أسماء الملفات عند الاسترجاع تُنظَّف دائماً.
+
+**تنبيه:** بعد توليد مفتاح استرجاع جديد، تبقى النسخ الاحتياطية التي صدّرتها سابقاً تُفتح بالمفتاح القديم والرمز القديم. احذفها إن كنت تشك أن المفتاح القديم انكشف.
 
 ---
 
-## What's new — Windows 1.13.0 / Android & iPhone 1.4.0 (security update)
+## What's new — Windows 1.13.1 / Android & iPhone 1.4.1 (security update)
 
-### Windows and mobile
-- **Stronger PIN protection:** the vault key is now derived with Argon2id instead of PBKDF2, so guessing the PIN is far harder even for someone who gets a copy of the vault files. Existing vaults are upgraded automatically the first time you open them; nothing to do.
-- **New PINs need at least 8 characters.** Existing shorter PINs still open the vault, with a suggestion to change them.
-- **Important:** after the upgrade, older versions can't open the vault or its new backups (they show "Incorrect PIN"), so update the app on all your devices.
+Fixes from a full security audit of both apps.
 
 ### Windows
-- **Signed updates:** the program only installs an in-app update that carries the publisher's signature.
-- **Files opened from the vault:** their temporary copy is overwritten when closed, so file-recovery tools can't bring it back.
+- **Changing the PIN and generating a new recovery key now require the current PIN**, so an unlocked vault left in front of someone else is not enough.
+- Stronger file protection: the program no longer follows links or junctions another program might plant, when deleting originals after hiding, cleaning temporary files, extracting, or exporting.
+- **Importing a backup no longer deletes your current vault** if the file is damaged or invalid.
+- Extracted file names are always sanitized, even when they come from a phone backup.
+- The in-app updater refuses any file older than the current version or not matching the announced version.
+- The delete-originals prompt lists the files, and CSV export prevents formulas from running in Excel.
+
+### Mobile
+- **Generating a new recovery key and enabling fingerprint unlock require the current PIN.**
+- Android: locking also deletes the temporary copy made by the system share feature.
+- iPhone: the fingerprint secret stays on this device only and is not carried in backups, and the temporary export copy is deleted right away. You may be asked to re-enable fingerprint unlock once after updating.
+- File names are always sanitized on restore.
+
+**Note:** after generating a new recovery key, backups you exported earlier still open with the old key and old PIN. Delete them if you think the old key was exposed.
 
 © Sultan Al-Salmi — All rights reserved / © سلطان السالمي — جميع الحقوق محفوظة
 
